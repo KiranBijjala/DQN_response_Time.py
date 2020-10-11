@@ -24,6 +24,8 @@ MODEL_NAME = 'DQNAgent'
 MIN_REWARD = -200  # For model save
 MEMORY_FRACTION = 0.20
 
+New_Add=0.80
+
 # Environment settings
 EPISODES = 3
 
